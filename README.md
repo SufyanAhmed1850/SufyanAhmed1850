@@ -1,6 +1,6 @@
 # 🚀 Sufyan Ahmed | MERN Stack Developer
 
-![Profile Picture](https://res.cloudinary.com/dke5jqhus/image/upload/w_250,h_300,c_fill/c_crop,e_saturation:-10/v1706643218/profile%20pic/pbdpyn2dtc78msdqmgan.jpg)
+![Profile Picture](https://res.cloudinary.com/dke5jqhus/image/upload/w_250,h_300,c_fill,g_face/c_crop,e_saturation:-10/v1791262599/Minimalist_Portrait_in_a_Black_Turtleneck_humhxu.png)
 
 ## 👋 About Me
 
